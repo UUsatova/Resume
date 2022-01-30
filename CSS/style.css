@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    background: url("../img/notebook-paper.jpg");
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 1.5;
+    font-size: 20px;
+}
+.card{
+    width: 600px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: 
+    lavender;
+    box-shadow: 0 5px 10px #ccc;
+    border-radius: 10px;
+}
+.card-photo{
+     display: block;
+     width: 200px;
+     height: 200px;
+     margin: 0 auto;
+     border-radius: 50%;
+}
+.card-title{
+    font-size: 20px;
+    text-align: center;
+    color:rgb(55, 22, 116);
+}
+
+.card-subtitle{
+    font-size: 18px;
+    text-align: center;
+    color:rgb(166, 64, 192);
+}
+.card-list{
+    font-family: italic;
+}
+.card-list2{
+    font-family: italic;
+    content: "\2714" ;
+}
+.icon{
+    margin: 70px ;
+    color:rgb(11, 216, 38);
+
+}
